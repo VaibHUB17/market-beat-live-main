@@ -1,4 +1,4 @@
-# Market Beat Live
+# Market Crypto Live
 
 A real-time cryptocurrency market dashboard with live price updates and market data visualization.
 
