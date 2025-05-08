@@ -13,8 +13,8 @@ A real-time cryptocurrency market dashboard with live price updates and market d
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/market-beat-live.git
-cd market-beat-live
+git clone https://github.com/yourusername/market-crypto.git
+cd market-crypto
 ```
 
 2. Install dependencies
